@@ -50,5 +50,5 @@ Source: Our World in Data - COVID-19 dataset
 
 Feel free to reach out or connect with me on LinkedIn:
 
-🔗 https://www.linkedin.com/in/jack-f-39784232a/
+🔗 LinkedIn Profile
 
